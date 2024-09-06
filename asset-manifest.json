@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Wildfire/static/css/main.1465dc5a.css",
+    "main.js": "/Wildfire/static/js/main.66747db8.js",
+    "static/js/453.c59d639e.chunk.js": "/Wildfire/static/js/453.c59d639e.chunk.js",
+    "static/media/guide_3_2.png": "/Wildfire/static/media/guide_3_2.cfa72e561b4df7c95a3a.png",
+    "static/media/guide_3_1.png": "/Wildfire/static/media/guide_3_1.fa47b6ca9a373856853f.png",
+    "static/media/guide_4_1.png": "/Wildfire/static/media/guide_4_1.1e9540251b409092de71.png",
+    "static/media/chart1-2.png": "/Wildfire/static/media/chart1-2.6877edb4738787980de0.png",
+    "static/media/chart1-1.png": "/Wildfire/static/media/chart1-1.0cfb2601039129910bc7.png",
+    "static/media/chart1-3.png": "/Wildfire/static/media/chart1-3.a1f8e366f69808d68a98.png",
+    "static/media/chart2-3.png": "/Wildfire/static/media/chart2-3.2942d425f9b9a5f69231.png",
+    "static/media/chart2-1.png": "/Wildfire/static/media/chart2-1.0225ecf0adbeeaec0091.png",
+    "static/media/guide_2.png": "/Wildfire/static/media/guide_2.e313057b4ba3582cee6d.png",
+    "static/media/guide_1.png": "/Wildfire/static/media/guide_1.e39a4532f57e379012eb.png",
+    "static/media/guide_3_3.png": "/Wildfire/static/media/guide_3_3.233882c7d31cfc4fb089.png",
+    "static/media/guide_4_3.png": "/Wildfire/static/media/guide_4_3.11e1c9f19d5f5cc06800.png",
+    "static/media/옹진군.svg": "/Wildfire/static/media/옹진군.b9cdc862925f60c9fbf358fa9d8625ab.svg",
+    "static/media/강화군.svg": "/Wildfire/static/media/강화군.76619264b0cd69b964a5ecb3cf2286a5.svg",
+    "static/media/중구.svg": "/Wildfire/static/media/중구.e9620ac217b325cf4ba558fcfa93af7c.svg",
+    "static/media/서구.svg": "/Wildfire/static/media/서구.959e081dc6410cde3be40975769ecdec.svg",
+    "static/media/남동구.svg": "/Wildfire/static/media/남동구.954bd23112dcebc7152c3458cd156760.svg",
+    "static/media/incheon_logo.svg": "/Wildfire/static/media/incheon_logo.7093f1e7e757748ed33e02acf12e88ef.svg",
+    "static/media/부평구.svg": "/Wildfire/static/media/부평구.b4dfcd03840e49f34d32757363303b1b.svg",
+    "static/media/help_button.svg": "/Wildfire/static/media/help_button.9e9835ec0bdddbcbbd1b510f4c61af4a.svg",
+    "static/media/연수구.svg": "/Wildfire/static/media/연수구.168569970cf10932456b32ccb8fa8932.svg",
+    "static/media/계양구.svg": "/Wildfire/static/media/계양구.a583fc01023c88dda0f0aec79b7f92e6.svg",
+    "static/media/미추홀구.svg": "/Wildfire/static/media/미추홀구.50440922200d654cb85ca57cedc418a2.svg",
+    "index.html": "/Wildfire/index.html",
+    "static/media/동구.svg": "/Wildfire/static/media/동구.c643e8e79af0be19e61b729668aeee26.svg",
+    "static/media/dropDown.svg": "/Wildfire/static/media/dropDown.a2319460ac8a98c8f084bffdc4aec88b.svg",
+    "main.1465dc5a.css.map": "/Wildfire/static/css/main.1465dc5a.css.map",
+    "main.66747db8.js.map": "/Wildfire/static/js/main.66747db8.js.map",
+    "453.c59d639e.chunk.js.map": "/Wildfire/static/js/453.c59d639e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1465dc5a.css",
+    "static/js/main.66747db8.js"
+  ]
+}
